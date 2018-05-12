@@ -1,4 +1,8 @@
 _repo: The-Romance-of-the-Commonplace_49285
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49285-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Burgess, Gelett
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3732
     wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49285#The-Romance-of-the-Commonplace
 gutenberg_issued: '2015-06-25'
 gutenberg_type: Text
 identifiers:
